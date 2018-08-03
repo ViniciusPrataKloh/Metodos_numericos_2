@@ -1,1 +1,1 @@
-# Metodos_numericos_2
+Resolução numérica e implementação computacional do modelo logístico com contribuição do efeito Alee.
